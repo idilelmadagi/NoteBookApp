@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<NoteModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Notes>
+    <NoteItem DateTime="14.09.2022 11:58" Note="read clean code " Status=" ~ " />
+    <NoteItem DateTime="14.09.2022 11:58" Note="save your note by F2" Status=" :) " />
+    <NoteItem DateTime="14.09.2022 11:58" Note="Design pattern is important for programmers" Status=" ~ " />
+  </Notes>
+  <Alarms>
+    <AlarmItem DateTime="14.09.2022 11:58" AlarmDateTime="16.09.2022 09:30" Alarm="true" Note="meeting supervisor" Status=" ~ " />
+    <AlarmItem DateTime="14.09.2022 11:59" Alarm="true" Note="call my friend " Status=" ~ " AlarmDateTime="22.09.2022 20:30" />
+  </Alarms>
+</NoteModel>
